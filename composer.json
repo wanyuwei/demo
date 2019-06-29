@@ -1,11 +1,11 @@
 {
-    "name": "xiaowan/demo",
+    "name": "wanyuwei/demo",
     "description": "is test",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "xiaowan",
+            "name": "wanyuwei",
             "email": "wanyuwei123@163.com"
         }
     ],
