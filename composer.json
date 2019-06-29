@@ -1,0 +1,14 @@
+{
+    "name": "xiaowan/demo",
+    "description": "is test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaowan",
+            "email": "wanyuwei123@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
